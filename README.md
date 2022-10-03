@@ -4,15 +4,15 @@ This folder offers several tools that simplify the interaction with the Blockcha
 
 ## BCP_informed.sol
 
-BCP_informed.sol should be imported into the Solidity code of your smart contract application. It is an *abstract contract* which means it is not a standalone contract but helps to connect to the oracle. By importing it into your contract, it allows you to call the following three functions:
+BCP_informed.sol should be imported into the Solidity code of your smart contract application. It is an *abstract contract* which means it is not a standalone contract but assists you in connecting to the oracle. By importing it into your contract, it allows you to call the following three functions:
 
-- The *GetTransactionCosts* function calculates the value you need to send with the Order function. This value covers the sender's fee for the data and the gas costs of the delivery transaction.
+- The *GetTransactionCosts* function calculates the value you need to send with the Order function. This value covers both the sender's fee for the data and the gas costs of the delivery transaction.
 
-- The *Order* function is used to place an order data as described in a commitment.
+- The *Order* function is used to place an order as described in a commitment.
 
 - The *CancelOrder* function allows you to cancel any unfilled order (for any reason). As a result, the sender fee will be reimbursed.
 
-## Minimal usse cases
+## Minimal use case
 
 The minimal use case is an example of a smart contract that interacts with the Blockchain Presence oracle. To learn how to order and receive data, this example might serve as a first point of reference.
 
