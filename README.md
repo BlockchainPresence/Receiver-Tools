@@ -25,24 +25,24 @@ The minimal use case is an example of a smart contract that interacts with the B
 
 ### Blockchain Presence Commitments
 
-1  Random Number Generator
-2  White Ether
-3  SBB departures delay
-4  SBB arrivals delay
-5  Current weather
-6  Bitcoin and Ether prices
-7  Exchange rates
-8  U.S. stocks historical prices
-9  SIX stocks prices
-10 U.S. company financial information
-11 Repo reference rates: SWISS AVERAGE RATES (SAR)
-12 Spot interest rates with different maturities for CHF Swiss Confederation bond issues
-13 Metals market prices
-14 Cryptocurrencies price
-15 Cryptocurrencies metric
-16 Recommended gas prices
-17 ETH transaction waiting time
-18 Account balance
-19 Average transaction cost
-20 Blockchain height
-21 Number of unconfirmed transactions
+- 1  Random Number Generator
+- 2  White Ether
+- 3  SBB departures delay
+- 4  SBB arrivals delay
+- 5  Current weather
+- 6  Bitcoin and Ether prices
+- 7  Exchange rates
+- 8  U.S. stocks historical prices
+- 9  SIX stocks prices
+- 10 U.S. company financial information
+- 11 Repo reference rates: SWISS AVERAGE RATES (SAR)
+- 12 Spot interest rates with different maturities for CHF Swiss Confederation bond issues
+- 13 Metals market prices
+- 14 Cryptocurrencies price
+- 15 Cryptocurrencies metric
+- 16 Recommended gas prices
+- 17 ETH transaction waiting time
+- 18 Account balance
+- 19 Average transaction cost
+- 20 Blockchain height
+- 21 Number of unconfirmed transactions
